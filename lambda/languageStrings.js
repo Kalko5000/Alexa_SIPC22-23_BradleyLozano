@@ -40,11 +40,16 @@ module.exports = {
                 ],
             VIDEOGAMES_FACTS:
                 [
-                    'The only requirement for playing DOOM 64 is having a device with a screen, and sometimes, is optional',
+                    'The only requirement for playing DOOM 64 is having a device with a screen, and sometimes, even this is optional',
                     'In the game FarCry 4 at the beginnig of the story, when Peygan ask you to wait, if you wait 13 minutes, he will come back and help you, making that you can finish the game in less than half an hour',
                     'In bloodborne, if you enter in the tower of the Healing Church Workshop, if you keep going downstair, you will find a path where if you do a litlle parkour you can fight with a secret mini boss and then unlock a new location',
                     'In the Assassins Creed Black Flag, if you going down to the atocha wrech and enter inside the ship, if you go around the right corner and you stay quiet, Edward will see through the window a kraken trying to eat a whale',
                     'Did you know that, the original plan in Pokemón was that instead of Pikachu, Cleafairy was going to be the image of the franchise',
+                    'Did you know, Elden Ring won game of the year in 2022',
+                    'In Enter the Gungeon you can find weapons that reference portal, star wars, megaman, doom, blade runner and many others',
+                    'When you beat Celeste, the amount of strawberries you have collected get turned into a pie',
+                    'The game director behind God of War 2018, Cory Barlog, also directed God of War one and two',
+                    'In Aragami, you unlock a new outfit if you beat every level without killing anyone',
                 ],
         }
     },
@@ -87,6 +92,11 @@ module.exports = {
                     'En bloodborne, si entras en la torre del taller de la iglesia de la sanación y bajas todos los pisos posibles, llegará un momento, donde encontrarás un camino, en el que si haces un parkour, podrás pelear contra un mini boss y desbloquear una zona secreta',
                     'En el Assassins Creed Black Flag, si exploras el hundimiento del atocha y entras en el barco, si vas hacía la parte derecha y te quedas quieto, Edward mirará por la ventana y verá un Kraken intentando comerse una ballena',
                     'Sabías que originalmente en Pokemón, la cara de la franquicia iba a ser Cleafairy en lugar de Pikachu?',
+                    'Sabías que, Elden Ring ganó juego del año en 2022',
+                    'En Enter the Gungeon, se pueden encontrar armas que referencian portal, star wars, megaman, doom, blade runner y muchos otros',
+                    'Cuando te pasas Celeste, las fresas coleccionadas se pueden convertir en un pastel',
+                    'El director del juego God of War 2018, Cory Barlog, tambien dirigio God of War uno y dos',
+                    'En Aragami, se puede desbloquear un nuevo traje si consigues pasrte todos los niveles sin matar a nadie',
                 ],
         }
     },

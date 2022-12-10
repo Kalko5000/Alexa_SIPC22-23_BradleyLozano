@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "mis curiosidades",
+      "invocationName": "change me",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
@@ -91,5 +91,5 @@
       ]
     }
   },
-  "version": "4"
+  "version": "1"
 }
